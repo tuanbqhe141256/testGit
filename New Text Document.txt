@@ -1,6 +1,5 @@
 hihi
 asdfds
-sua roi
 =======
 userA C1
 >>>>>>> C1
